@@ -69,10 +69,10 @@ Dans cette section nous créons un compte sur Github. Si vous en avez déjà vou
 1. Connecter vous au site github avec le nouveau compte créé
 1. Remplissez le formulaire
 ![Github1](assets/GitHub3.png)
-## Gitpod
+## Ona (Ex Gitpod)
 ### Creation compte
-1. Se  rendre sur https://gitpod.io/login, selectionner **Gitpod classic** (**PAS FLEX**) et se connecter avec Github
-![Github1](assets/GitPod1.png)
+1. Se  rendre sur https://app.gitpod.io/login, selectionner **Continue with Github** 
+![Github1](assets/GitPod1.jpg)
 1. Authoriser Gitpod à accèder à votre compte Github
 ![Github1](assets/GitPod2.png)
 1. Sélectionner la formule à 1Ohrs/mois
